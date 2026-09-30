@@ -1,0 +1,1 @@
+run-grade.md 실행 방법 추가
